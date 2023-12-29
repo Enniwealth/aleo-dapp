@@ -1,4 +1,4 @@
-# Aleo Workshop 1 Task 
+# Aleo Workshop 2 Task 
 
 ## Build Guide
 
