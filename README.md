@@ -21,4 +21,7 @@ program hello.aleo {
     }
 }
 ```
-
+Run
+```bash
+leo run main 5u64 5u64
+```
