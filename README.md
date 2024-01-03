@@ -23,5 +23,5 @@ program hello.aleo {
 ```
 Run
 ```bash
-leo run main 5u64 5u64
+leo run main 5u16 5u16
 ```
